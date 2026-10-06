@@ -1,0 +1,23 @@
+.d1{
+    background-color: lightgray;
+    padding-right: 850px;
+    padding-bottom: 50px;
+    margin-top: 70px;
+    margin-left: 600px;
+}
+.img1{
+    width: 50px;
+    margin-left: 50px;
+}
+.img2{
+    width: 50px;
+}
+.img3{
+    width: 50px;
+}
+.p1{
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 10px;
+    width: 500px;
+}
